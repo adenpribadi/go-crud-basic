@@ -16,3 +16,4 @@ set_env.sh
 set_env.bat
 
 config.yaml
+sftp-config.json
