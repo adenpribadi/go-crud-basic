@@ -14,3 +14,5 @@
 # Set environment variables 
 set_env.sh
 set_env.bat
+
+config.yaml
